@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="length_units_array">
+        <item>m</item>
+        <item>km</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mi</item>
+    </string-array>
+</resources>

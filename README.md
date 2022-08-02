@@ -6,4 +6,5 @@
 
 ## Projects
 ### Android Java
-- [x] HelloWorld (CodeChallenge)
+- [x] HelloWorld (Challenge)
+- [x] UnitConversion (Challenge)

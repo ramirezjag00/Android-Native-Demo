@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volume_units_array">
+        <item>ml</item>
+        <item>L</item>
+        <item>cup</item>
+        <item>pt</item>
+        <item>fl oz</item>
+        <item>gal</item>
+    </string-array>
+</resources>

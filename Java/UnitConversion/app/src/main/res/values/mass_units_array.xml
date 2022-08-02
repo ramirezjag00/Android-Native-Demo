@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mass_units_array">
+        <item>g</item>
+        <item>kg</item>
+        <item>lb</item>
+        <item>t</item>
+    </string-array>
+</resources>
