@@ -8,3 +8,6 @@
 ### Android Java
 - [x] HelloWorld (Challenge)
 - [x] UnitConversion (Challenge)
+
+## NOTE:
+- Each project has a gif / clip and README
