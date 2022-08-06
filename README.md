@@ -9,5 +9,10 @@
 - [x] HelloWorld (Challenge)
 - [x] UnitConversion (Challenge)
 
+### Java Exercises
+- [x] Basic
+- [x] Object Oriented Programming
+- [x] Case Study: Asset Class
+
 ## NOTE:
 - Each project has a gif / clip and README

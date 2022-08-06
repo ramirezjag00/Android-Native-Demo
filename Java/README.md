@@ -2,3 +2,7 @@
 
 - [x] HelloWorld (Challenge)
 - [x] UnitConversion (Challenge)
+- [x] Java Exercises
+  - [x] Basic
+  - [x] OOP
+  - [x] Case Study: Asset Class
