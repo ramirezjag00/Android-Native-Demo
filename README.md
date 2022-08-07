@@ -8,6 +8,8 @@
 ### Android Java
 - [x] HelloWorld (Challenge)
 - [x] UnitConversion (Challenge)
+- [x] Activity Life Cycle (Experiment)
+- [x] Intents (Experiment)
 
 ### Java Exercises
 - [x] Basic
