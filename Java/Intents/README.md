@@ -1,4 +1,4 @@
-# Intents (Code Challenge)
+# Intents
 <img src="../../assets/intents.gif" width="200" />
 
 ## Goal

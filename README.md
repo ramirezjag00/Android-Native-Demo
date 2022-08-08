@@ -10,11 +10,12 @@
 - [x] UnitConversion (Challenge)
 - [x] Activity Life Cycle (Experiment)
 - [x] Intents (Experiment)
+- [x] Menu (Experiment)
 
 ### Java Exercises
 - [x] Basic
 - [x] Object Oriented Programming
-- [x] Case Study: Asset Class
+- [x] Asset Class (Case Study)
 
 ## NOTE:
 - Each project has a gif / clip and README
