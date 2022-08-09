@@ -9,3 +9,4 @@
 - [x] Activity Life Cycle (Experiment)
 - [x] Intents (Experiment)
 - [x] Menu (Experiment)
+- [x] Advanced Widgets (Experiment)

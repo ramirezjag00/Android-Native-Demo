@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdvancedWidgets</string>
+
+    <string-array name="fulfillment_array">
+        <item>Delivery</item>
+        <item>Pick-Up</item>
+    </string-array>
+
+</resources>
