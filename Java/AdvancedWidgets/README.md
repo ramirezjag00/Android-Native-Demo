@@ -7,9 +7,9 @@ Basic Experiment - Advanced Widgets
 
 ## Content
 - How to implement the following widgets:
-  - CheckBox
-  - Radio Button
   - Toggle Button
+  - Radio Button
+  - CheckBox
   - Spinner (Dropdown)
   - Timer Picker
   - Date Picker

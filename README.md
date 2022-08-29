@@ -12,6 +12,7 @@
 - [x] Intents (Experiment)
 - [x] Menu (Experiment)
 - [x] Advanced Widgets (Experiment)
+- [x] Advanced Widgets 2 (Experiment)
 
 ### Java Exercises
 - [x] Basic
